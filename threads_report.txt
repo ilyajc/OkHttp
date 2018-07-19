@@ -1,0 +1,77 @@
+"OkHttp http://api.github.com/...@5119" prio=5 tid=0xac45 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	  at ru.test.okhttp.MainActivity$1.onResponse(MainActivity.java:58)
+	  at okhttp3.RealCall$AsyncCall.execute(RealCall.java:153)
+	  at okhttp3.internal.NamedRunnable.run(NamedRunnable.java:32)
+	  at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1162)
+	  at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:636)
+	  at java.lang.Thread.run(Thread.java:764)
+
+"main@4684" prio=5 tid=0x2 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Jit thread pool worker thread 0@5229" daemon prio=5 tid=0xac38 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Signal Catcher@5263" daemon prio=5 tid=0xac39 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"ReferenceQueueDaemon@5264" daemon prio=5 tid=0xac3b nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"FinalizerDaemon@5265" daemon prio=5 tid=0xac3c nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"FinalizerWatchdogDaemon@5266" daemon prio=5 tid=0xac3d nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"HeapTaskDaemon@5267" daemon prio=5 tid=0xac3e nid=NA waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"Binder:25722_1@5268" prio=5 tid=0xac3f nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder:25722_2@5269" prio=5 tid=0xac40 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Profile Saver@4682" daemon prio=5 tid=0xac41 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Thread-3@4689" prio=5 tid=0xac44 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"RenderThread@5163" prio=5 tid=0xac46 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder:25722_3@5196" prio=5 tid=0xac47 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"hwuiTask1@5197" prio=5 tid=0xac48 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"OkHttp ConnectionPool@5216" daemon prio=5 tid=0xac49 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"Okio Watchdog@5226" daemon prio=5 tid=0xac4a nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"queued-work-looper@5280" prio=5 tid=0xac4b nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
